@@ -1,7 +1,6 @@
 package com.github.megrad79.Onboarding;
 
 import java.util.Scanner;
-import java.lang.*;
 
 
 public class Week1 {
