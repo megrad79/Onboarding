@@ -59,7 +59,8 @@ public class Week1 {
 
 
     public static void main(String[] args){
-        System.out.println("Hello World");
+        System.out.println("Hello!");
+        System.out.println("Please choose a integer between 9 and 100, noninclusive.");
 
         /*
         1)Java:
@@ -85,11 +86,9 @@ public class Week1 {
 
             System.out.print(A);
             System.out.print(B);
-
         }
         else {
-            System.out.println("Sorry... Please choose a integer between" +
-                    "10 and 99.");
+            System.out.println("Sorry... Please try again and choose a 2-digit integer between 9 and 100, noninclusive.");
         }
     }
 }
