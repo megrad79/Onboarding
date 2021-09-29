@@ -3,7 +3,7 @@ package com.github.megrad79.Onboarding;
 import java.util.Scanner;
 
 
-public class Week1 {
+public class W1N5 {
     /*Weekly Coding Activity:
     Please mention the link to your solution in the comments section.
 
